@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="500" height="250"src='https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47mhpgm6q48y65m5c9aase2b2gron9ysnu38850umb&rid=200w.webp&ct=g' width="60">
 
 
-- 🌱 I’m currently learning **MangoDB,NodeJs,AWS**
+- 🌱 I’m currently learning **AI, MachineLearning**
 
 - 💬 Ask me about **Java, Python**
 
