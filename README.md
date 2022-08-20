@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Nasir V</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="600" height="250"src='https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47mhpgm6q48y65m5c9aase2b2gron9ysnu38850umb&rid=200w.webp&ct=g' width="60">
+<img align="right" alt="Coding" width="500" height="250"src='https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47mhpgm6q48y65m5c9aase2b2gron9ysnu38850umb&rid=200w.webp&ct=g' width="60">
 
 
 - 🌱 I’m currently learning **MangoDB,NodeJs,AWS**
