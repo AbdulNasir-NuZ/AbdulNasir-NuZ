@@ -58,4 +58,5 @@
 <p align="center">
 <img align="center"  src="https://streak-stats.demolab.com/?user=abdulnasir-nuz&theme=default" alt="https://git.io/streak-stats" />
 </p>
-
+<p align="center">
+<img align ="center" src="https://github.com/AbdulNasir-NuZ/AbdulNasir-NuZ/blob/main/images/stat.svg" alt="AbdulNasir WakaTime Activity"/></p>
