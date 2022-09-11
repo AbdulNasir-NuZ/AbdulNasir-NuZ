@@ -46,8 +46,16 @@
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulnasir-nuz&show_icons=true&locale=en&layout=compact" alt="abdulnasir-nuz" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulnasir-nuz&show_icons=true&locale=en&layout=compact" alt="abdulnasir-nuz" height="250px" width="500px"/>
+<hr>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abdulnasir-nuz&show_icons=true&locale=en" alt="abdulnasir-nuz"  />
+</p>
+<hr>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulnasir-nuz&" alt="abdulnasir-nuz" /></p> -->
+<p align="center">
+<img align="center"  src="https://streak-stats.demolab.com/?user=abdulnasir-nuz&theme=default" alt="https://git.io/streak-stats" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulnasir-nuz&show_icons=true&locale=en" alt="abdulnasir-nuz" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulnasir-nuz&" alt="abdulnasir-nuz" /></p>
