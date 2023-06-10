@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abdulnasirnuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abdulnasirnuz" height="30" width="40" /></a>
-<a href="https://codepen.io/abdulnasir-nuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abdulnasir-nuz" height="30" width="40" /></a>
+<a href="https://codepen.io/@abdulnasir-nuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abdulnasir-nuz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdul-nasirv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-nasirv/" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/AbdulNasir-NuZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdulnasir-nuz" height="30" width="40" /></a>
 </p>
