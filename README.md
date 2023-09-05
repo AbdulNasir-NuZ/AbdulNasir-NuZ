@@ -16,13 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@abdulnasir-nuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abdulnasir-nuz" height="30" width="40" /></a>
+<a href="https://codepen.io/abdulnasir-nuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abdulnasir-nuz" height="30" width="40" /></a>
 <a href="https://dev.to/abdulnasirnuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulnasirnuz" height="30" width="40" /></a>
 <a href="https://twitter.com/abdulnasirnuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulnasirnuz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-nasirv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-nasirv/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abdul nasir v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdul nasir v" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-nasirv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-nasirv/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19809109/abdul-nasir-v?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdul nasir v" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abdulnasir-nuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdulnasir-nuz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abdulnasir-nuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abdulnasir-nuz" height="30" width="40" /></a>
+<a href="https://leetcode.com/AbdulNasir-NuZ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abdulnasir-nuz" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
